@@ -9,3 +9,5 @@ Pueden hacer lo que quieran...
 ### actualizado desde github
 
 ESTOS CAMBIOS SON NUEVOS. DESDE LOCAL..
+
+y si estoy desde github??
